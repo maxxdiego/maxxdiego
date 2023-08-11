@@ -1,4 +1,19 @@
-### Hi there 👋
+# Hello, everybody! 👋
+
+:mortar_board: Professor FATEC/ETEC
+
+&nbsp
+:earth_americas: Especialista em Redes Estruturadas de Computadores
+
+&nbsp
+:computer: Graduado em Análise e Desenvolvimento de Sistemas
+
+&nbsp
+:hammer_and_wrench: Técnico em Informática
+
+&nbsp
+:angel: 10 anos de experiência na área de Tecnologia da Informação
+
 
 <!--
 **maxxdiego/maxxdiego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
