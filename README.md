@@ -1,18 +1,10 @@
-# Hello, everybody! 👋
+## Hello, everybody! :wink:
 
-:mortar_board: Professor FATEC/ETEC
-
-&nbsp
-:earth_americas: Especialista em Redes Estruturadas de Computadores
-
-&nbsp
-:computer: Graduado em Análise e Desenvolvimento de Sistemas
-
-&nbsp
-:hammer_and_wrench: Técnico em Informática
-
-&nbsp
-:angel: 10 anos de experiência na área de Tecnologia da Informação
+- :mortar_board: Professor FATEC/ETEC
+- :earth_americas: Especialista em Redes Estruturadas de Computadores
+- :computer: Graduado em Análise e Desenvolvimento de Sistemas
+- :hammer_and_wrench: Técnico em Informática
+- :angel: 10 anos de experiência na área de Tecnologia da Informação
 
 
 <!--
