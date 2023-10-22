@@ -4,6 +4,7 @@
 - :earth_americas: Especialista em Redes Estruturadas de Computadores
 - :computer: Graduado em Análise e Desenvolvimento de Sistemas
 - :hammer_and_wrench: Técnico em Informática
+- :heart: Apaixonado por UI/UX design
 - :angel: 10 anos de experiência na área de Tecnologia da Informação
 
 
