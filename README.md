@@ -6,7 +6,7 @@
 - :hammer_and_wrench: Técnico em Informática
 - :purple_heart: Apaixonado por UI/UX design
 - :angel: 10 anos de experiência na área de Tecnologia da Informação
-
+<hr>
 <a href="https://github.com/maxxdiego/maxxdiego">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=maxxdiego&show_icons=true&line_height=27&theme=default" alt="GitHub Stats"/>
 
