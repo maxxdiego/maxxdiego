@@ -1,4 +1,4 @@
-## Hello, everybody! :wink:
+## Hey, everybody! :wink:
 
 - :mortar_board: Professor FATEC/ETEC
 - :earth_americas: Especialista em Redes Estruturadas de Computadores
