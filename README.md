@@ -7,15 +7,6 @@
 - :purple_heart: Apaixonado por UI/UX design
 - :angel: 10 anos de experiência na área de Tecnologia da Informação
 <hr>
-<a href="https://github.com/maxxdiego/maxxdiego">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxxdiego&layout=compact&langs_count=7&theme=dracula"/>
-</a>
-<hr>
-<a href="https://github.com/maxxdiego/maxxdiego">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=maxxdiego&show_icons=true&line_height=27&theme=dracula" alt="GitHub Stats"/>
-</a>
-<hr>
-
 <div>
   <a href="https://github.com/maxxdiego">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=maxxdiego&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
