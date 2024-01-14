@@ -27,10 +27,6 @@
   <img align="center" alt="Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
 </div>
-  <br>
- 
-  ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
- 
+  <br> 
+</div> 
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=maxxdiego&repo=maxxdiego&theme=react)](https://github.com/maxxdiego/maxxdiego)
