@@ -8,7 +8,7 @@
 - :angel: 10 anos de experiência na área de Tecnologia da Informação
 <hr>
 <div>
-  <a href="https://github.com/maxxdiego"><img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=maxxdiego&show_icons=true&theme=react&include_all_commits=true&count_private=true"/><img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxxdiego&layout=compact&langs_count=7&theme=react"/>
+  <a href="https://github.com/maxxdiego"><img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=maxxdiego&theme=react&show_icons=true"/><img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxxdiego&layout=compact&langs_count=7&theme=react"/>
 </div>
  <br>
 <div  align="center"> 
