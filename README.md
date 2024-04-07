@@ -1,8 +1,8 @@
 ## Hey, everybody! :wink:
 
 - :mortar_board: Professor FATEC/ETEC
-- :earth_americas: Especialista em Redes Estruturadas de Computadores
 - :computer: Graduado em Análise e Desenvolvimento de Sistemas
+- :earth_americas: Especialização em Redes Estruturadas de Computadores
 - :hammer_and_wrench: Técnico em Informática
 - :purple_heart: Apaixonado por UI/UX design
 - :angel: 10 anos de experiência na área de Tecnologia da Informação
