@@ -13,21 +13,21 @@
  <br>
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="center" alt="HTML" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" >
-    <img align="center" alt="CSS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" >
-    <img align="center" alt="JS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" >
-    <img align="center" alt="Bootstrap" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" >
-    <img align="center" alt="NodeJs" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" >
-    <img align="center" alt="Express" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" >
-    <img align="center" alt="Python" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" >
-    <img align="center" alt="Flask" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" >
-    <img align="center" alt="React" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" >
-    <img align="center" alt="Typescript" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" >
-    <img align="center" alt="MongoDB" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" >
-    <img align="center" alt="MySQL" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" >
-    <img align="center" alt="SQLite" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" >
-    <img align="center" alt="Figma" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" >
-    <img align="center" alt="Docker" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" >
+    <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" >
+    <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" >
+    <img align="center" alt="JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" >
+    <img align="center" alt="Bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" >
+    <img align="center" alt="NodeJs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" >
+    <img align="center" alt="Express" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" >
+    <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" >
+    <img align="center" alt="Flask" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" >
+    <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" >
+    <img align="center" alt="Typescript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" >
+    <img align="center" alt="MongoDB" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" >
+    <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" >
+    <img align="center" alt="SQLite" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" >
+    <img align="center" alt="Figma" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" >
+    <img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" >
 </div>
   <br> 
 </div>
