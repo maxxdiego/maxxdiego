@@ -23,12 +23,12 @@
     &nbsp;&nbsp;<img align="center" alt="Bootstrap" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" >
     &nbsp;&nbsp;<img align="center" alt="Figma" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" >
     <br /><br />
-    &nbsp;&nbsp;<img align="center" alt="MongoDB" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" >
-    &nbsp;&nbsp;<img align="center" alt="MySQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" >
-    &nbsp;&nbsp;<img align="center" alt="SQLite" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" >
-    &nbsp;&nbsp;<img align="center" alt="Docker" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" >
-    &nbsp;&nbsp;<img align="center" alt="Express" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" >
-    &nbsp;&nbsp;<img align="center" alt="Flask" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" >
+    &nbsp;&nbsp;<img align="center" alt="MongoDB" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" >
+    &nbsp;&nbsp;<img align="center" alt="MySQL" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" >
+    &nbsp;&nbsp;<img align="center" alt="SQLite" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" >
+    &nbsp;&nbsp;<img align="center" alt="Docker" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" >
+    &nbsp;&nbsp;<img align="center" alt="Express" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" >
+    &nbsp;&nbsp;<img align="center" alt="Flask" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" >
 </div>
   <br> 
 </div>
