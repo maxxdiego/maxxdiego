@@ -34,7 +34,7 @@
 <!--[![readme](https://github-readme-stats.vercel.app/api/pin/?username=maxxdiego&repo=maxxdiego&theme=react)](https://github.com/maxxdiego/maxxdiego)-->
 
 
-![Prints hi in multiple programming languages](https://raw.githubusercontent.com/just-dev-creator/just-dev-creator/master/hi.gif)
+![Prints hi in multiple programming languages]<img src="https://raw.githubusercontent.com/just-dev-creator/just-dev-creator/master/hi.gif" width="300" height="150">
 # just.
 ## Student in Germany & hobby developer
 ## Skills
