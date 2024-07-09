@@ -20,6 +20,7 @@
     <img align="center" alt="React" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" >
     <img align="center" alt="NodeJs" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" >
     <img align="center" alt="Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" > 
+    <br />
     <img align="center" alt="MongoDB" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" >
     <img align="center" alt="MySQL" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" >
     <img align="center" alt="SQLite" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" >
