@@ -20,6 +20,7 @@
     &nbsp;&nbsp;<img align="center" alt="React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" >
     &nbsp;&nbsp;<img align="center" alt="NodeJs" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" >
     &nbsp;&nbsp;<img align="center" alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" >
+    &nbsp;&nbsp;<img align="center" alt="Next" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-woodmark.svg" >
     &nbsp;&nbsp;<img align="center" alt="Bootstrap" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" >
     &nbsp;&nbsp;<img align="center" alt="Figma" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" >
     <br /><br />
@@ -27,7 +28,7 @@
     &nbsp;&nbsp;<img align="center" alt="MySQL" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" >
     &nbsp;&nbsp;<img align="center" alt="SQLite" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" >
     &nbsp;&nbsp;<img align="center" alt="Docker" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" >
-    &nbsp;&nbsp;<img align="center" alt="Next" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-woodmark.svg" >
+    &nbsp;&nbsp;<img align="center" alt="Next" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" >
     &nbsp;&nbsp;<img align="center" alt="Express" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" >
     &nbsp;&nbsp;<img align="center" alt="Flask" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" >
 </div>
