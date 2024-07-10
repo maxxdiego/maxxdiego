@@ -32,7 +32,7 @@
     &nbsp;&nbsp;<img align="center" alt="Next" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" >
     &nbsp;&nbsp;<img align="center" alt="Express" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" >
     &nbsp;&nbsp;<img align="center" alt="Flask" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" >
-    &nbsp;&nbsp;<img align="center" alt="Github" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-plain.svg" >
+    &nbsp;&nbsp;<img align="center" alt="Github" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" >
     &nbsp;&nbsp;<img align="center" alt="Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" >
 
 </div>
