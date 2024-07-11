@@ -1,4 +1,4 @@
-## Greetings! 👾
+## 👾 Greetings, fellow coder!
 
 - :computer: IT Professor - FATEC/ETEC
 - :mortar_board: Graduated in Systems Analysis and Development
