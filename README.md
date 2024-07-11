@@ -6,7 +6,7 @@
 - :books: Specialization in Learning, Development, and Literacy Processes
 - :hammer_and_wrench: IT Technician
 - :purple_heart: Passionate about UI/UX design
-- :angel: 10 years of experience in the Information Technology field
+- :floppy_disk: 10 years of experience in the Information Technology field
 <hr>
 <div>
   <a href="https://github.com/maxxdiego"><img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=maxxdiego&theme=react&show_icons=true"/><img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxxdiego&layout=compact&langs_count=7&theme=react"/>
