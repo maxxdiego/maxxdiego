@@ -1,11 +1,12 @@
 ## Hey, everybody! :wink:
 
-- :mortar_board: Professor FATEC/ETEC
-- :computer: Graduado em Análise e Desenvolvimento de Sistemas
-- :earth_americas: Especialização em Redes Estruturadas de Computadores
-- :hammer_and_wrench: Técnico em Informática
-- :purple_heart: Apaixonado por UI/UX design
-- :angel: 10 anos de experiência na área de Tecnologia da Informação
+- :computer: IT Professor - FATEC/ETEC
+- :mortar_board: Graduated in Systems Analysis and Development
+- :earth_americas: Specialization in Structured Computer Networks
+- :books: Specialization in Learning, Development, and Literacy Processes
+- :hammer_and_wrench: IT Technician
+- :purple_heart: Passionate about UI/UX design
+- :angel: 10 years of experience in the Information Technology field
 <hr>
 <div>
   <a href="https://github.com/maxxdiego"><img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=maxxdiego&theme=react&show_icons=true"/><img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxxdiego&layout=compact&langs_count=7&theme=react"/>
