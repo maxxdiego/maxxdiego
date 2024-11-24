@@ -26,6 +26,7 @@
     &nbsp;&nbsp;<img align="center" alt="Figma" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" >
     &nbsp;&nbsp;<img align="center" alt="Gimp" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" >
     <br /><br />
+    &nbsp;&nbsp;<img align="center" alt="VueJS" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" >
     &nbsp;&nbsp;<img align="center" alt="MongoDB" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" >
     &nbsp;&nbsp;<img align="center" alt="MySQL" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" >
     &nbsp;&nbsp;<img align="center" alt="SQLite" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" >
