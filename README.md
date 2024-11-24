@@ -36,6 +36,8 @@
     &nbsp;&nbsp;<img align="center" alt="Flask" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" >
     &nbsp;&nbsp;<img align="center" alt="Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" >
     &nbsp;&nbsp;<img align="center" alt="Github" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" >
+    &nbsp;&nbsp;<img align="center" alt="Postman" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" >
+    &nbsp;&nbsp;<img align="center" alt="Insomnia" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insmonia-original.svg" >
 
 </div>
   <br> 
