@@ -40,7 +40,7 @@
     &nbsp;&nbsp;<img align="center" alt="Github" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" >
 </div>
   <hr>
-  &nbsp;&nbsp;<img align="center" alt="AWS Educator" height="180" width="180" src="https://images.credly.com/images/e7bf6727-22cf-45d6-ad9c-76ab57c3f11b/image.png">
+  &nbsp;&nbsp;<a href="https://www.credly.com/badges/495a3bc3-1bf1-4dd5-aa84-ac4c1c13259d/public_url" target="_blank"><img align="center" alt="AWS Educator" height="180" width="180" src="https://images.credly.com/images/e7bf6727-22cf-45d6-ad9c-76ab57c3f11b/image.png"></a>
   <img align="center" alt="AWS Cloud Foundations" height="180" width="180" src="https://images.credly.com/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" >
   <br> 
 </div>
