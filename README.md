@@ -40,6 +40,6 @@
     &nbsp;&nbsp;<img align="center" alt="Github" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" >
 </div>
   <hr>
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="fe588aeb-47e2-413a-85b9-65c2e95ecab8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <img align="center" alt="Github" height="100" width="100" src="https://images.credly.com/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" >
   <br> 
 </div>
