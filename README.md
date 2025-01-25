@@ -11,6 +11,7 @@
 <div>
   <a href="https://github.com/maxxdiego"><img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=maxxdiego&theme=react&show_icons=true"/><img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxxdiego&layout=compact&langs_count=7&theme=react"/>
 </div>
+<hr>
  <br>
 <div  align="center"> 
   <div style="display: inline_block"><br>
