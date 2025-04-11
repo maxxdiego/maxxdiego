@@ -25,6 +25,9 @@
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxxdiego&layout=compact&langs_count=7&theme=react"/>
       </a>
     </td>
+    <td>
+        <img align="center" alt="maxx-f" src="https://imagens-maxx.s3.sa-east-1.amazonaws.com/123.png">
+    </td>
   </tr>
 </table>
 <hr>
