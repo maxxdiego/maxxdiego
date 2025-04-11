@@ -1,6 +1,6 @@
-## Saudações, viajante dos Reinos do Código! 🧙‍♂️✨💻
+## Saudações, viajante dos Reinos do Código! 🧙‍♂️💻☄️
 
-#### **Deixe-me apresentar...** 📜
+#### **Deixe-me apresentar...** ✨
 
 <ul style="list-style: none; padding: 0; margin: 0; line-height: 1.8;">
   <li>🧙‍♂️ Mentor das Artes Secretas da Tecnologia na FATEC/ETEC</li>
@@ -33,12 +33,13 @@
 
 ## 🧳 Inventário Arcano
 
-Estes são os artefatos e ferramentas encantadas que levo para cada missão:
+### Estes são os artefatos e ferramentas encantadas que levo para cada missão:
 
 <div align="left"> 
   <div style="display: inline_block"><br>
 
-  🛡️ **Artefatos de Frontend**:  
+  ### 🛡️ **Artefatos de Frontend**:  
+  <br />
   <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" >
   &nbsp;<img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" >
   &nbsp;<img align="center" alt="JS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" >
@@ -47,7 +48,8 @@ Estes são os artefatos e ferramentas encantadas que levo para cada missão:
   &nbsp;<img align="center" alt="VueJS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" >
 
   <br /><br />
-  🗡️ **Pergaminhos de Backend**:  
+  ### 🗡️ **Pergaminhos de Backend**:  
+  <br />
   <img align="center" alt="NodeJs" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" >
   &nbsp;<img align="center" alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" >
   &nbsp;<img align="center" alt="Express" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" >
@@ -55,6 +57,7 @@ Estes são os artefatos e ferramentas encantadas que levo para cada missão:
 
   <br /><br />
   🎨 **Feitiços de Ilusão (Design)**:  
+  <br />
   <img align="center" alt="Tailwind" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" >
   &nbsp;<img align="center" alt="Bootstrap" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" >
   &nbsp;<img align="center" alt="Figma" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" >
@@ -62,17 +65,20 @@ Estes são os artefatos e ferramentas encantadas que levo para cada missão:
 
   <br /><br />
   📡 **Pergaminhos de Comunicação**:  
+  <br />
   <img align="center" alt="Insomnia" height="50" width="50" src="https://github.com/Kong/insomnia-design-assets/blob/master/export/Icon.svg">
   &nbsp;<img align="center" alt="Postman" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" >    
 
   <br /><br />
-  🔐 **Chaves do Cofre (Bancos de Dados)**:  
+  ### 🔐 **Chaves do Cofre (Bancos de Dados)**:  
+  <br />
   <img align="center" alt="MongoDB" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" >
   &nbsp;<img align="center" alt="MySQL" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" >
   &nbsp;<img align="center" alt="SQLite" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" >
 
   <br /><br />
-  ⚙️ **Ferramentas de Invocação**:  
+  ### ⚙️ **Ferramentas de Invocação**:  
+  <br />
   <img align="center" alt="Docker" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" >
   &nbsp;<img align="center" alt="Next" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" >
   &nbsp;<img align="center" alt="Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" >
