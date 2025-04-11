@@ -1,9 +1,6 @@
 ## Greetings, fellow coder! 🖱️🧙‍♂️☄️
-
-<table border="0">
-  <tr>
-    <td>
-    <ul style="list-style: none; padding: 0; margin: 0; line-height: 1.8;">
+<p align="center">
+      <ul style="list-style: none; padding: 0; margin: 0; line-height: 1.8;">
       <li>💻 IT Professor - FATEC/ETEC</li>
       <li>🎓 Graduated in Systems Analysis and Development</li>
       <li>🌎 Specialization in Structured Computer Networks</li>
@@ -12,29 +9,15 @@
       <li>💜 Passionate about UI/UX design</li>
       <li>💾 10 years of experience in the IT field</li>
     </ul>
-    </td>
-    <td>
-        <img align="center" alt="maxx-f" src="https://imagens-maxx.s3.sa-east-1.amazonaws.com/123.png">
-    </td>
-  </tr>
-</table>
-<hr>
-<table border="0">
-  <tr>
-    <td>
-      <img alt="maxx-s" src="https://imagens-maxx.s3.sa-east-1.amazonaws.com/321.png" width="250" style="border-radius: 10px;">
-    </td>
-    <td>
-      <a href="https://github.com/maxxdiego">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxxdiego&theme=react&show_icons=true"/>
-      </a>
-      <br/>
-      <a href="https://github.com/maxxdiego">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxxdiego&layout=compact&langs_count=7&theme=react"/>
-      </a>
-    </td>
-  </tr>
-</table>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/maxxdiego">
+    <img align="center" alt="maxx-f" src="https://imagens-maxx.s3.sa-east-1.amazonaws.com/123.png">
+  </a>
+  <a href="https://github.com/maxxdiego">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxxdiego&layout=compact&langs_count=7&theme=react"/>
+  </a>
+</p>
+
 <hr>
 
 <p align="center">
