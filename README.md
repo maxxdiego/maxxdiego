@@ -1,28 +1,24 @@
 ## Greetings, fellow coder! 🖱️🧙‍♂️☄️
 
-<div style="display: flex; gap: 10px;">
-  <div>
-- :computer: IT Professor - FATEC/ETEC
-- :mortar_board: Graduated in Systems Analysis and Development
-- :earth_americas: Specialization in Structured Computer Networks
-- :books: Specialization in Learning, Development, and Literacy Processes
-- :hammer_and_wrench: IT Technician
-- :purple_heart: Passionate about UI/UX design
-- :floppy_disk: 10 years of experience in the IT field
+<div style="display: flex; align-items: center; gap: 20px;">
 
+  <div>
+    <ul style="list-style: none; padding: 0; margin: 0; line-height: 1.8;">
+      <li>💻 IT Professor - FATEC/ETEC</li>
+      <li>🎓 Graduated in Systems Analysis and Development</li>
+      <li>🌎 Specialization in Structured Computer Networks</li>
+      <li>📚 Specialization in Learning, Development, and Literacy Processes</li>
+      <li>🛠️ IT Technician</li>
+      <li>💜 Passionate about UI/UX design</li>
+      <li>💾 10 years of experience in the IT field</li>
+    </ul>
   </div>
-  
-  <img align="center" alt="maxx-s" src="https://imagens-maxx.s3.sa-east-1.amazonaws.com/321.png">
-  
+
+  <img alt="maxx-s" src="https://imagens-maxx.s3.sa-east-1.amazonaws.com/321.png" style="max-width: 250px; height: auto; border-radius: 10px;">
+
 </div>
 
-
 <hr>
-
-
-
-<hr>
-
 <div>
   <a href="https://github.com/maxxdiego"><img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=maxxdiego&theme=react&show_icons=true"/><img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxxdiego&layout=compact&langs_count=7&theme=react"/>
 </div>
