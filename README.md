@@ -1,31 +1,31 @@
 ## Greetings, fellow coder! 🖱️🧙‍♂️☄️
-<p align="center">
+
+
+<table border="0">
+  <tr>
+    <td>
       <ul style="list-style: none; padding: 0; margin: 0; line-height: 1.8;">
-      <li>💻 IT Professor - FATEC/ETEC</li>
-      <li>🎓 Graduated in Systems Analysis and Development</li>
-      <li>🌎 Specialization in Structured Computer Networks</li>
-      <li>📚 Specialization in Learning, Development, and Literacy Processes</li>
-      <li>🛠️ IT Technician</li>
-      <li>💜 Passionate about UI/UX design</li>
-      <li>💾 10 years of experience in the IT field</li>
-    </ul>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/maxxdiego">
-    <img align="center" alt="maxx-f" src="https://imagens-maxx.s3.sa-east-1.amazonaws.com/123.png">
-  </a>
-</p>
+            <li>💻 IT Professor - FATEC/ETEC</li>
+            <li>🎓 Graduated in Systems Analysis and Development</li>
+            <li>🌎 Specialization in Structured Computer Networks</li>
+            <li>📚 Specialization in Learning, Development, and Literacy Processes</li>
+            <li>🛠️ IT Technician</li>
+            <li>💜 Passionate about UI/UX design</li>
+            <li>💾 10 years of experience in the IT field</li>
+      </ul>
+    </td>
+    <td>
+      <img align="center" alt="maxx-f" src="https://imagens-maxx.s3.sa-east-1.amazonaws.com/123.png">
+    </td>
+  </tr>
+</table>
 
-<hr>
 
 <p align="center">
-  <img alt="maxx-s" src="https://imagens-maxx.s3.sa-east-1.amazonaws.com/321.png" width="250" style="border-radius: 10px;"/>
+  <a href="https://github.com/maxxdiego">
+    <img align="center" alt="maxx-f" src="https://imagens-maxx.s3.sa-east-1.amazonaws.com/321.png">
+  </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/maxxdiego">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxxdiego&theme=react&show_icons=true"/>
-  </a>
-  <a href="https://github.com/maxxdiego">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxxdiego&layout=compact&langs_count=7&theme=react"/>
-  </a>
 </p>
 
 <hr>
