@@ -107,6 +107,7 @@ Horas de estudo na Torre dos Magos me concederam certificações poderosas:
 
 ---
 
+<br>
 ## ✨ Feitiços Ativos
 
 - 🔥 `BolaDeFogo()` – Deploy full-stack com Docker & Flask  
@@ -116,6 +117,7 @@ Horas de estudo na Torre dos Magos me concederam certificações poderosas:
 
 ---
 
+<br>
 ## 📜 Mapa de Aventuras
 
 Bem-vindo ao salão de mapas! Aqui estão algumas campanhas épicas que já lancei no GitHub:
