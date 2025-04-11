@@ -14,7 +14,7 @@
   <a href="https://github.com/maxxdiego">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxxdiego&theme=react&show_icons=true"/>
   </a>
-  &nbps;&nbps;&nbps;&nbps;&nbps;&nbps;
+  &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/maxxdiego">
     <img align="center" alt="maxx-f" src="https://imagens-maxx.s3.sa-east-1.amazonaws.com/maxx-f.png">
   </a>
