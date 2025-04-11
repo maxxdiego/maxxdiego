@@ -9,6 +9,9 @@
 - :floppy_disk: 10 years of experience in the IT field
 <hr>
 
+<img align="center" alt="maxx-f" height="300" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg](https://imagens-maxx.s3.sa-east-1.amazonaws.com/1_20250410_000145_0000.png" >
+
+
 
 <hr>
 
