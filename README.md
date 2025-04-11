@@ -27,9 +27,9 @@
   </a> 
 </p>
 
-<hr>
+<br>
 
-## Inventory 🎒
+## My inventory 🎒
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
