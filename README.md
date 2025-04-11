@@ -37,6 +37,19 @@
 </table>
 <hr>
 
+<p align="center">
+  <img alt="maxx-s" src="https://imagens-maxx.s3.sa-east-1.amazonaws.com/321.png" width="250" style="border-radius: 10px;"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/maxxdiego">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxxdiego&theme=react&show_icons=true"/>
+  </a>
+  <a href="https://github.com/maxxdiego">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxxdiego&layout=compact&langs_count=7&theme=react"/>
+  </a>
+</p>
+
+<hr>
+
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" >
