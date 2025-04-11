@@ -14,7 +14,7 @@
   <span>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxxdiego&theme=react&show_icons=true"/>
   </span>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span>
     <img align="center" alt="maxx-f" src="https://imagens-maxx.s3.sa-east-1.amazonaws.com/maxx-code-mage-front.png">
   </span>
