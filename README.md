@@ -10,8 +10,8 @@
 <hr>
 
 <div style="display: flex; gap: 10px;">
-  <img align="center" alt="maxx-s" src="https://imagens-maxx.s3.sa-east-1.amazonaws.com/321.png" style="width: 50%;">
-  <img align="center" alt="maxx-f" src="https://imagens-maxx.s3.sa-east-1.amazonaws.com/123.png" style="width: 50%;">
+  <img align="center" alt="maxx-s" src="https://imagens-maxx.s3.sa-east-1.amazonaws.com/321.png">
+  <img align="center" alt="maxx-f" src="https://imagens-maxx.s3.sa-east-1.amazonaws.com/123.png">
 </div>
 
 <hr>
