@@ -15,7 +15,7 @@
       </ul>
     </td>
     <td>
-      <img align="center" alt="maxx-f" src="https://imagens-maxx.s3.sa-east-1.amazonaws.com/123.png">
+      <img align="center" alt="maxx-f" src="https://imagens-maxx.s3.sa-east-1.amazonaws.com/maxx-f.png">
     </td>
   </tr>
 </table>
