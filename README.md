@@ -8,6 +8,9 @@
 - :purple_heart: Passionate about UI/UX design
 - :floppy_disk: 10 years of experience in the IT field
 <hr>
+<img src="https://i.ibb.co/qYNmrcZF/1-20250410-000145-0000.png">
+<hr>
+
 <div>
   <a href="https://github.com/maxxdiego"><img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=maxxdiego&theme=react&show_icons=true"/><img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxxdiego&layout=compact&langs_count=7&theme=react"/>
 </div>
