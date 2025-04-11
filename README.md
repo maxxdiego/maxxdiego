@@ -8,7 +8,7 @@
   <li>🌐 Especialista nas Artes Secretas das Redes Estruturadas de Computadores</li>
   <li>📚 Estudioso da Tradição do Ensino e da Aprendizagem</li>
   <li>⚙️ Forjado nas Fornalhas do Conhecimento Técnico</li>
-  <li>🎨 Encantado pela estética do Design UI/UX</li>
+  <li>🎨 Encantado pela estética do UI/UX Design</li>
   <li>🕰️ Uma jornada de mais de uma década pelas Terras da TI</li>
 </ul>
 
