@@ -45,7 +45,8 @@ These are the enchanted artifacts and tools I carry into each quest:
   &nbsp;<img align="center" alt="VueJS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" >
 
   <br /><br />
-  🗡️ **Backend Tomes**:  
+  🗡️ **Backend Tomes**:
+  <br>
   <img align="center" alt="NodeJs" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" >
   &nbsp;<img align="center" alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" >
   &nbsp;<img align="center" alt="Express" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" >
@@ -53,6 +54,7 @@ These are the enchanted artifacts and tools I carry into each quest:
 
   <br /><br />
   🎨 **Illusion Spells (Design Tools)**:  
+  <br>
   <img align="center" alt="Tailwind" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" >
   &nbsp;<img align="center" alt="Bootstrap" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" >
   &nbsp;<img align="center" alt="Figma" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" >
@@ -60,17 +62,20 @@ These are the enchanted artifacts and tools I carry into each quest:
 
   <br /><br />
   📡 **Scrolls of Communication**:  
+  <br>
   <img align="center" alt="Insomnia" height="50" width="50" src="https://github.com/Kong/insomnia-design-assets/blob/master/export/Icon.svg">
   &nbsp;<img align="center" alt="Postman" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" >    
 
   <br /><br />
   🔐 **Vault Keys (Databases)**:  
+  <br>
   <img align="center" alt="MongoDB" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" >
   &nbsp;<img align="center" alt="MySQL" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" >
   &nbsp;<img align="center" alt="SQLite" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" >
 
   <br /><br />
   ⚙️ **Summoning Tools**:  
+  <br>
   <img align="center" alt="Docker" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" >
   &nbsp;<img align="center" alt="Next" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" >
   &nbsp;<img align="center" alt="Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" >
@@ -83,7 +88,7 @@ These are the enchanted artifacts and tools I carry into each quest:
 ## 🪄 Passive Skills (Always Active)
 
 Long hours of training at the Mage's Tower granted me powerful certifications:
-
+<br>
 <a href="https://www.credly.com/badges/495a3bc3-1bf1-4dd5-aa84-ac4c1c13259d/public_url">
   <img align="center" alt="AWS Educator" height="150" width="150" src="https://images.credly.com/images/e7bf6727-22cf-45d6-ad9c-76ab57c3f11b/image.png">
 </a>
