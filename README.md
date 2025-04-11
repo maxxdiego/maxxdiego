@@ -5,7 +5,7 @@
 <ul style="list-style: none; padding: 0; margin: 0; line-height: 1.8;">
   <li>🧙‍♂️ Mentor das Artes Secretas da Tecnologia na FATEC/ETEC</li>
   <li>📜 Portador do Pergaminho de Análise e Desenvolvimento de Sistemas</li>
-  <li>🌐 Especialista nas Artes Secretas das Redes Estruturadas</li>
+  <li>🌐 Especialista nas Artes Secretas das Redes Estruturadas de Computadores</li>
   <li>📚 Estudioso da Tradição do Ensino e da Aprendizagem</li>
   <li>⚙️ Forjado nas Fornalhas do Conhecimento Técnico</li>
   <li>🎨 Encantado pela estética do Design UI/UX</li>
