@@ -21,7 +21,7 @@
 </table>
 
 
-<p align="center">
+<p align="left">
     <a href="https://github.com/maxxdiego">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxxdiego&theme=react&show_icons=true"/>
   </a>
