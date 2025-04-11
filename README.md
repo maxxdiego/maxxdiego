@@ -16,10 +16,10 @@
 <div style="display: flex; align-items: center; gap: 20px;">
 
   <div>
-  <img alt="maxx-s" src="https://imagens-maxx.s3.sa-east-1.amazonaws.com/321.png" style="max-width: 250px; height: auto; border-radius: 10px;">
+  <img alt="maxx-s" src="https://imagens-maxx.s3.sa-east-1.amazonaws.com/321.png" style="max-width: 250px; height: auto; border-radius: 10px; display=inline-box;">
   </div>
 
-  <div>
+  <div style="display=inline-box;">
       <a href="https://github.com/maxxdiego"><img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=maxxdiego&theme=react&show_icons=true"/><img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxxdiego&layout=compact&langs_count=7&theme=react"/>
     </div>
 
