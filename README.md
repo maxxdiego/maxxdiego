@@ -1,6 +1,6 @@
 ## Saudações, viajante dos Reinos do Código! 🧙‍♂️✨💻
 
-**Deixe-me apresentar...**
+#### **Deixe-me apresentar...** 📜
 
 <ul style="list-style: none; padding: 0; margin: 0; line-height: 1.8;">
   <li>🧙‍♂️ Mentor das Artes Secretas da Tecnologia na FATEC/ETEC</li>
@@ -107,6 +107,15 @@ Horas de estudo na Torre dos Magos me concederam certificações poderosas:
 - 🌀 `InterfaceArcana()` – UI/UX guiado pela empatia do usuário  
 - ⚡ `InvocarAPI()` – APIs RESTful com Express & Node  
 - ✨ `AuraDeCodigoLimpo()` – Encantamentos legíveis, escaláveis e mantíveis  
+
+---
+
+## 📜 Mapa de Aventuras
+
+Bem-vindo ao salão de mapas! Aqui estão algumas campanhas épicas que já lancei no GitHub:
+
+- 💠 **QTE Academy Partners** — Sistema de guildas educacionais integradas, construído para formar magos e guerreiros do código. [🔗 Repositório privado]
+- 🏰 **The Games API** — Uma campanha RESTful que ensina magos iniciantes a conjurar dados com Flask. [🔗 Acesse](https://github.com/maxxdiego/the-games-api)
 
 ---
 
