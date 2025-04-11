@@ -16,11 +16,11 @@
   </span>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span>
-    <img align="center" alt="maxx-f" src="https://imagens-maxx.s3.sa-east-1.amazonaws.com/maxx-f.png">
+    <img align="center" alt="maxx-f" src="https://imagens-maxx.s3.sa-east-1.amazonaws.com/maxx-code-mage-front.png">
   </span>
   <br>
   <span>
-    <img align="center" alt="maxx-f" src="https://imagens-maxx.s3.sa-east-1.amazonaws.com/321.png">
+    <img align="center" alt="maxx-f" src="https://imagens-maxx.s3.sa-east-1.amazonaws.com/maxx-code-mage-side.png">
   </span>
   <a href="https://github.com/maxxdiego">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxxdiego&layout=compact&langs_count=7&theme=react"/>
