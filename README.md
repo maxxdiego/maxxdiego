@@ -13,19 +13,19 @@
 </ul>
 
 <p align="left">
-  <a href="https://github.com/maxxdiego">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxxdiego&theme=react&show_icons=true"/>
-  </a>
+  <span>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=maxxdiego&theme=react&show_icons=true"/>
+  </span>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/maxxdiego">
-    <img align="center" alt="maxx-f" src="https://imagens-maxx.s3.sa-east-1.amazonaws.com/maxx-f.png">
-  </a>
+  <span>
+    <img align="center" alt="maxx-f" src="https://imagens-maxx.s3.sa-east-1.amazonaws.com/maxx-code-mage-front.png">
+  </span>
   <br>
+  <span>
+    <img align="center" alt="maxx-f" src="https://imagens-maxx.s3.sa-east-1.amazonaws.com/maxx-code-mage-side-r.png">
+  </span>
   <a href="https://github.com/maxxdiego">
-    <img align="center" alt="maxx-f" src="https://imagens-maxx.s3.sa-east-1.amazonaws.com/321.png">
-  </a>
-  <a href="https://github.com/maxxdiego">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxxdiego&layout=compact&langs_count=7&theme=react"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxxdiego&layout=compact&langs_count=7&theme=react"/>
   </a> 
 </p>
 
