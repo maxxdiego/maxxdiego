@@ -9,8 +9,6 @@
 - :floppy_disk: 10 years of experience in the IT field
 <hr>
 
-<img src="https://qteacademysystem.vercel.app/images/white-logo.png" alt="1-20250410-000145-0000" border="0">
-<img src="https://i.ibb.co/BKrBNwjD/2-20250410-000145-0001.png" alt="2-20250410-000145-0001" border="0">
 
 <hr>
 
