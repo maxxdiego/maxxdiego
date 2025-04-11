@@ -11,7 +11,7 @@
   <li>🎨 Encantado pela estética do UI/UX Design</li>
   <li>🕰️ Uma jornada de mais de uma década pelas Terras da TI</li>
 </ul>
-
+<br>
 <p align="left">
   <span>
     <img height="190em" src="https://github-readme-stats.vercel.app/api?username=maxxdiego&theme=react&show_icons=true"/>
