@@ -1,5 +1,7 @@
 ## Greetings, fellow coder! 🖱️🧙‍♂️☄️
 
+<div style="display: flex; gap: 10px;">
+  <div>
 - :computer: IT Professor - FATEC/ETEC
 - :mortar_board: Graduated in Systems Analysis and Development
 - :earth_americas: Specialization in Structured Computer Networks
@@ -7,12 +9,17 @@
 - :hammer_and_wrench: IT Technician
 - :purple_heart: Passionate about UI/UX design
 - :floppy_disk: 10 years of experience in the IT field
+
+  </div>
+  
+  <img align="center" alt="maxx-s" src="https://imagens-maxx.s3.sa-east-1.amazonaws.com/321.png">
+  
+</div>
+
+
 <hr>
 
-<div style="display: flex; gap: 10px;">
-  <img align="center" alt="maxx-s" src="https://imagens-maxx.s3.sa-east-1.amazonaws.com/321.png">
-  <img align="center" alt="maxx-f" src="https://imagens-maxx.s3.sa-east-1.amazonaws.com/123.png">
-</div>
+
 
 <hr>
 
