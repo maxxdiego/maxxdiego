@@ -1,5 +1,7 @@
 ## Saudações, viajante dos Reinos do Código! 🧙‍♂️✨💻
 
+**Deixe-me apresentar...**
+
 <ul style="list-style: none; padding: 0; margin: 0; line-height: 1.8;">
   <li>🧙‍♂️ Mentor das Artes Secretas da Tecnologia na FATEC/ETEC</li>
   <li>📜 Portador do Pergaminho de Análise e Desenvolvimento de Sistemas</li>
