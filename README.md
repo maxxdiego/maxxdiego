@@ -56,7 +56,7 @@
   &nbsp;<img align="center" alt="Flask" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" >
 
   <br /><br />
-  🎨 **Feitiços de Ilusão (Design)**:  
+  ### 🎨 **Feitiços de Ilusão (Design)**:  
   <br />
   <img align="center" alt="Tailwind" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" >
   &nbsp;<img align="center" alt="Bootstrap" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" >
@@ -64,7 +64,7 @@
   &nbsp;<img align="center" alt="Gimp" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" >
 
   <br /><br />
-  📡 **Pergaminhos de Comunicação**:  
+  ### 📡 **Pergaminhos de Comunicação**:  
   <br />
   <img align="center" alt="Insomnia" height="50" width="50" src="https://github.com/Kong/insomnia-design-assets/blob/master/export/Icon.svg">
   &nbsp;<img align="center" alt="Postman" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" >    
