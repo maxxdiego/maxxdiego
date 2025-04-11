@@ -8,7 +8,10 @@
 - :purple_heart: Passionate about UI/UX design
 - :floppy_disk: 10 years of experience in the IT field
 <hr>
-<img src="https://i.ibb.co/qYNmrcZF/1-20250410-000145-0000.png">
+
+<img src="https://i.ibb.co/pjf4LMmr/1-20250410-000145-0000.png" alt="1-20250410-000145-0000" border="0">
+<img src="https://i.ibb.co/BKrBNwjD/2-20250410-000145-0001.png" alt="2-20250410-000145-0001" border="0">
+
 <hr>
 
 <div>
