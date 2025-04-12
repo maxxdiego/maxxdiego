@@ -107,8 +107,6 @@ Horas de estudo na Torre dos Magos me concederam certificações poderosas:
 
 ---
 
-<br>
-
 ### ✨ Feitiços Ativos
 
 - 🔥 `BolaDeFogo()` – Deploy full-stack com Docker & Flask  
@@ -117,8 +115,6 @@ Horas de estudo na Torre dos Magos me concederam certificações poderosas:
 - ✨ `AuraDeCodigoLimpo()` – Encantamentos legíveis, escaláveis e mantíveis  
 
 ---
-
-<br>
 
 ### 📜 Mapa de Aventuras
 
