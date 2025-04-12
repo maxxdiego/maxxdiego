@@ -1,9 +1,9 @@
-## Saudações, viajante dos Reinos do Código! 🧙‍♂️💻☄️
+## Saudações, viajante dos Reinos do Código! 🧙💻☄️
 
 #### **Deixe-me apresentar...** 🙇
 
 <ul style="list-style: none; padding: 0; margin: 0; line-height: 1.8;">
-  <li>🧙‍♂️ Mentor das Artes Secretas da Tecnologia na FATEC/ETEC</li>
+  <li>🧙 Mentor das Artes Secretas da Tecnologia na FATEC/ETEC</li>
   <li>📜 Portador do Pergaminho de Análise e Desenvolvimento de Sistemas</li>
   <li>🌐 Especialista nas Artes Secretas das Redes Estruturadas de Computadores</li>
   <li>📚 Estudioso da Tradição do Ensino e da Aprendizagem</li>
@@ -129,4 +129,4 @@ Bem-vindo ao salão de mapas! Aqui estão algumas campanhas épicas que já lanc
 
 ---
 
-> *"Sempre conjurando, nunca travando." – the code mage* 🧙‍♂️
+> *"Sempre conjurando, nunca travando." – the code mage* 🧙
