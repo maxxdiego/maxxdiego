@@ -88,7 +88,7 @@
 
 <br>
 
-## 🪄 Habilidades Passivas (Sempre Ativas)
+### 🪄 Habilidades Passivas (Sempre Ativas)
 
 Horas de estudo na Torre dos Magos me concederam certificações poderosas:
 
@@ -108,7 +108,8 @@ Horas de estudo na Torre dos Magos me concederam certificações poderosas:
 ---
 
 <br>
-## ✨ Feitiços Ativos
+
+### ✨ Feitiços Ativos
 
 - 🔥 `BolaDeFogo()` – Deploy full-stack com Docker & Flask  
 - 🌀 `InterfaceArcana()` – UI/UX guiado pela empatia do usuário  
@@ -118,7 +119,8 @@ Horas de estudo na Torre dos Magos me concederam certificações poderosas:
 ---
 
 <br>
-## 📜 Mapa de Aventuras
+
+### 📜 Mapa de Aventuras
 
 Bem-vindo ao salão de mapas! Aqui estão algumas campanhas épicas que já lancei no GitHub:
 
