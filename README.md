@@ -109,9 +109,9 @@ Horas de estudo na Torre dos Magos me concederam certificações poderosas:
 
 ### ✨ Feitiços Ativos
 
-- 🔥 `BolaDeFogo()` – Deploy full-stack com Docker & Flask  
+- 🔥 `BolaDeFogo()` – Deploy full-stack com Docker & Node.js  
 - 🌀 `InterfaceArcana()` – UI/UX guiado pela empatia do usuário  
-- ⚡ `InvocarAPI()` – APIs RESTful com Express & Node  
+- ⚡ `InvocarAPI()` – APIs RESTful com Express & Node.js
 - ✨ `AuraDeCodigoLimpo()` – Encantamentos legíveis, escaláveis e mantíveis  
 
 ---
@@ -121,7 +121,7 @@ Horas de estudo na Torre dos Magos me concederam certificações poderosas:
 Bem-vindo ao salão de mapas! Aqui estão algumas campanhas épicas que já lancei no GitHub:
 
 - 💠 **QTE Academy System** — Sistema de guildas educacionais integradas, construído para formar magos e guerreiros do código. [🔗 Repositório privado]
-- 🏰 **The Games API** — Uma campanha RESTful que ensina magos iniciantes a conjurar dados com Node.js e também com Python Flask. [🔗 Acesse](https://github.com/maxxdiego/the-games-api)
+- 🏰 **The Games API** — Uma campanha RESTful que ensina magos iniciantes a conjurar dados com Node.js e também com Python Flask. [🔗 Acesse](https://github.com/maxxdiego/09_api_node_e_front_end)
 
 ---
 
