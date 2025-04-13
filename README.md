@@ -125,4 +125,4 @@ Bem-vindo ao salão de mapas! Aqui estão algumas campanhas épicas que já lanc
 
 ---
 
-> *"Sempre conjurando, nunca travando." – the code mage* 🧙
+> *"Sempre conjurando, nunca travando." – maxx - code mage* 🧙
