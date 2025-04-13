@@ -122,7 +122,7 @@ Bem-vindo ao salão de mapas! Aqui estão algumas campanhas épicas que já lanc
 
 - 💠 **QTE Academy System** — Sistema de guildas educacionais integradas, construído para formar magos e guerreiros do código. [🔗 Repositório privado]
 - 🏰 **The Games API** — Uma campanha RESTful que ensina magos iniciantes a conjurar dados com Node.js e Python Flask.
-Node.js: [🔗 Acesse](https://github.com/maxxdiego/09_api_node_e_front_end) / Python - Flask: Node.js: [🔗 Acesse](https://github.com/maxxdiego/18_api_flask_games)
+Node.js: [🔗 Acesse](https://github.com/maxxdiego/09_api_node_e_front_end) / Python - Flask: Node.js: [🔗 Acesse](https://github.com/maxxdiego/18_api_flask_games) <br>
 
 ---
 
