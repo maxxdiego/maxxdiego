@@ -85,7 +85,7 @@ Node.js: [🔗 Acesse](https://github.com/maxxdiego/09_api_node_e_front_end) / P
   <br /><br />
   ### 📡 **Pergaminhos de Comunicação**:  
   <br />
-  <img align="center" alt="Insomnia" height="50" width="50" src="https://github.com/Kong/insomnia-design-assets/blob/master/export/Icon.svg">
+  <img align="center" alt="Insomnia" height="50" width="50" src="https://raw.githubusercontent.com/Kong/insomnia-design-assets/5e6169ba40c2ee7b790f7fa5368f48f37f823460/export/Icon.svg">
   &nbsp;<img align="center" alt="Postman" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" >    
 
   <br /><br />
@@ -107,7 +107,7 @@ Node.js: [🔗 Acesse](https://github.com/maxxdiego/09_api_node_e_front_end) / P
 
 <br>
 
-### ✨ Habilidades Passivas
+### 🛡️ Habilidades Passivas
 
 Horas de estudo na Torre dos Magos me concederam certificações poderosas:
 
