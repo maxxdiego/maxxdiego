@@ -31,6 +31,8 @@
 
 <br>
 
+---
+
 ### 📜 Meu Mapa de Aventuras
 
 Bem-vindo ao salão de mapas! Aqui estão algumas campanhas épicas que já lancei no GitHub:
@@ -46,7 +48,7 @@ Bem-vindo ao salão de mapas! Aqui estão algumas campanhas épicas que já lanc
 - 🏰 **The Games API** — Uma campanha RESTful que ensina devs iniciantes a praticar programação com Node.js e Python Flask. <br>
 Node.js: [🔗 Acesse](https://github.com/maxxdiego/09_api_node_e_front_end) / Python - Flask: [🔗 Acesse](https://github.com/maxxdiego/18_api_flask_games)
 
----
+<br>
 
 ## 🧳 Inventário Arcano
 
