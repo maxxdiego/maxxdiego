@@ -107,7 +107,7 @@ Node.js: [🔗 Acesse](https://github.com/maxxdiego/09_api_node_e_front_end) / P
 
 <br>
 
-### 🪄 Habilidades Passivas
+### ✨ Habilidades Passivas
 
 Horas de estudo na Torre dos Magos me concederam certificações poderosas:
 
