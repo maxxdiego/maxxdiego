@@ -31,6 +31,17 @@
 
 <br>
 
+### 📜 Meu Mapa de Aventuras
+
+Bem-vindo ao salão de mapas! Aqui estão algumas campanhas épicas que já lancei no GitHub:
+
+- 💠 **QTE Academy System** — Esse sistema foi desenvolvido para ser utilizado pelos docentes e alunos da FATEC Registro. O QTE Academy System permite o gerenciamento completo dos cursos oferecidos pelos parceiros Cisco, Huawei, Oracle e AWS em suas Academys, bem como o gerenciamento de inscrições para as plataformas.  [🔗 Repositório privado]
+- 🤔 **Code Challenge** — Uma aplicação interativa de minha autoria, criada para testar conhecimentos em código-fonte de APIs, Sistemas Web entre outros, através de desafios práticos. [🔗 Acesse](https://github.com/maxxdiego/code-challenge)
+- 🏰 **The Games API** — Uma campanha RESTful que ensina devs iniciantes a praticar programação com Node.js e Python Flask. <br>
+Node.js: [🔗 Acesse](https://github.com/maxxdiego/09_api_node_e_front_end) / Python - Flask: [🔗 Acesse](https://github.com/maxxdiego/18_api_flask_games)
+
+---
+
 ## 🧳 Inventário Arcano
 
 ### Estes são os artefatos e ferramentas encantadas que levo para cada missão:
@@ -113,16 +124,6 @@ Horas de estudo na Torre dos Magos me concederam certificações poderosas:
 - 🌀 `InterfaceArcana()` – UI/UX guiado pela empatia do usuário  
 - ⚡ `InvocarAPI()` – APIs RESTful com Express & Node.js
 - ✨ `AuraDeCodigoLimpo()` – Encantamentos legíveis, escaláveis e mantíveis  
-
----
-
-### 📜 Mapa de Aventuras
-
-Bem-vindo ao salão de mapas! Aqui estão algumas campanhas épicas que já lancei no GitHub:
-
-- 💠 **QTE Academy System** — Sistema de guildas educacionais integradas, construído para formar magos e guerreiros do código. [🔗 Repositório privado]
-- 🏰 **The Games API** — Uma campanha RESTful que ensina magos iniciantes a conjurar dados com Node.js e Python Flask. <br>
-Node.js: [🔗 Acesse](https://github.com/maxxdiego/09_api_node_e_front_end) / Python - Flask: [🔗 Acesse](https://github.com/maxxdiego/18_api_flask_games)
 
 ---
 
