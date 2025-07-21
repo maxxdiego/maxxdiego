@@ -37,7 +37,7 @@
 
 Bem-vindo ao salão de mapas! Aqui estão algumas campanhas épicas que já lancei no GitHub:
 
-- 💠 **QTE Academy System** — Esse sistema foi desenvolvido para ser utilizado pelos docentes e alunos da FATEC Registro. O QTE Academy System permite o gerenciamento completo dos cursos oferecidos pelos parceiros Cisco, Huawei, Oracle e AWS em suas Academys, bem como o gerenciamento de inscrições para as plataformas.  [🔗 Repositório privado]
+- 💠 **Fatec Registro | Academies Hub** — Esse sistema foi desenvolvido para ser utilizado pelos docentes e alunos da FATEC Registro. O Fatec Registro Academies Hub permite o gerenciamento completo dos cursos oferecidos pelos parceiros Cisco, Huawei, Oracle, AWS, IBM e Nvidia em suas Academys, bem como o gerenciamento de inscrições para as plataformas.  [🔗 Repositório privado]
 
 <br>
 
