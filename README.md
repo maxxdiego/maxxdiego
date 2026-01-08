@@ -128,11 +128,9 @@ Horas de estudo na Torre dos Magos me concederam certificações poderosas:
 
 ### ✨ Feitiços Ativos
 
-- 🔥 `BolaDeFogo()` – Deploy full-stack com Docker & Node.js  
+- 🔥 `BolaDeFogo()` – Deploy full-stack com Node.js  
 - 🌀 `InterfaceArcana()` – UI/UX guiado pela empatia do usuário  
 - ⚡ `InvocarAPI()` – APIs RESTful com Express & Node.js
 - ✨ `AuraDeCodigoLimpo()` – Encantamentos legíveis, escaláveis e mantíveis  
 
 ---
-
-> *"Sempre conjurando, nunca travando." – maxx – code mage* 🧙
