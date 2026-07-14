@@ -3,7 +3,7 @@
 #### **Deixe-me apresentar...** 🙇
 
 <ul style="list-style: none; padding: 0; margin: 0; line-height: 1.8;">
-  <li>👨‍🏫 Professor de Ensino Superior no Centro Paula Souza (FATEC/ETEC)</li>
+  <li>👨‍🏫 Professor de Ensino Superior e Médio/Técnico no Centro Paula Souza (FATEC/ETEC)</li>
   <li>🎨 UX Designer no CPS Carreiras (Centro Paula Souza)</li>
   <li>🎓 Graduado em Análise e Desenvolvimento de Sistemas</li>
   <li>🌐 Especialista em Redes Estruturadas de Computadores</li>
