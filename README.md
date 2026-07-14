@@ -87,7 +87,7 @@ Horas de estudo na Torre dos Magos me concederam certificações poderosas:
 </a>
 
 <a href="https://www.credly.com/badges/fe588aeb-47e2-413a-85b9-65c2e95ecab8/public_url">
-  <img align="center" alt="AWS Cloud Foundations" height="120" width="120" src="https://images.credly.com/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png">
+  <img align="center" alt="AWS Cloud Foundations" height="120" width="120" src="https://images.credly.com/size/340x340/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob">
 </a>
 
 <br>
