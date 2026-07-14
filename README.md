@@ -8,8 +8,8 @@
   <li>🎓 Graduado em Análise e Desenvolvimento de Sistemas</li>
   <li>🌐 Especialista em Redes Estruturadas de Computadores</li>
   <li>📚 Especialização em Processos de Ensino e Aprendizagem</li>
-  <li>💻 Experiência de mais de uma década na área de Tecnologia da Informação</li>
   <li>⚙️ Formação técnica em Informática</li>
+  <li>💻 Experiência de mais de uma década na área de Tecnologia da Informação</li>  
 </ul>
 <br>
 <p align="left">
