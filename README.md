@@ -61,7 +61,7 @@ Bem-vindo ao salão de mapas! Aqui estão algumas campanhas épicas que já lanc
   &nbsp;<img align="center" alt="Flask" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" >
   &nbsp;<img align="center" alt="Tailwind" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" >
   &nbsp;<img align="center" alt="Bootstrap" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" >
-    <br/>
+    <br/><br/>
   &nbsp;<img align="center" alt="Figma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" >
   &nbsp;<img align="center" alt="Gimp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" >
   &nbsp;<img align="center" alt="Insomnia" height="40" width="40" src="https://raw.githubusercontent.com/Kong/insomnia-design-assets/5e6169ba40c2ee7b790f7fa5368f48f37f823460/export/Icon.svg">
@@ -83,25 +83,13 @@ Bem-vindo ao salão de mapas! Aqui estão algumas campanhas épicas que já lanc
 Horas de estudo na Torre dos Magos me concederam certificações poderosas:
 
 <a href="https://www.credly.com/badges/495a3bc3-1bf1-4dd5-aa84-ac4c1c13259d/public_url">
-  <img align="center" alt="AWS Educator" height="90" width="90" src="https://images.credly.com/images/e7bf6727-22cf-45d6-ad9c-76ab57c3f11b/image.png">
+  <img align="center" alt="AWS Educator" height="110" width="110" src="https://images.credly.com/images/e7bf6727-22cf-45d6-ad9c-76ab57c3f11b/image.png">
 </a>
 
 <a href="https://www.credly.com/badges/fe588aeb-47e2-413a-85b9-65c2e95ecab8/public_url">
-  <img align="center" alt="AWS Cloud Foundations" height="90" width="90" src="https://images.credly.com/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png">
+  <img align="center" alt="AWS Cloud Foundations" height="110" width="110" src="https://images.credly.com/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png">
 </a>
 
 <br>
-
-🧠 **AWS Cloud Foundations**
-🎓 **AWS Educator**
-
----
-
-### ✨ Feitiços Ativos
-
-- 🔥 `BolaDeFogo()` – Deploy full-stack com Node.js  
-- 🌀 `InterfaceArcana()` – UI/UX guiado pela empatia do usuário  
-- ⚡ `InvocarAPI()` – APIs RESTful com Express & Node.js
-- ✨ `AuraDeCodigoLimpo()` – Encantamentos legíveis, escaláveis e mantíveis  
 
 ---
