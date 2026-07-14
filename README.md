@@ -36,12 +36,12 @@
 Bem-vindo ao salão de mapas! Aqui estão algumas campanhas épicas que já lancei no GitHub:
 
 - 💠 **Fatec Registro | Academies Hub** — Esse sistema foi desenvolvido para ser utilizado pelos docentes e alunos da FATEC Registro. O Fatec Registro Academies Hub permite o gerenciamento completo dos cursos oferecidos pelos parceiros Cisco, Huawei, Oracle, AWS, IBM e Nvidia em suas Academys, bem como o gerenciamento de inscrições para as plataformas.  [🔗 Repositório privado]
-- Acesso: <a href="https://fatecregistroacademieshub.vercel.app">https://fatecregistroacademieshub.vercel.app</a>
+Acesso: <a href="https://fatecregistroacademieshub.vercel.app" target="_blank">https://fatecregistroacademieshub.vercel.app</a>
 
 <br>
 
 - 🛍️ **Lojinha dos Formandos - Fatec Registro** — Uma plataforma web desenvolvida para auxiliar os alunos formandos da FATEC Registro na arrecadação de fundos para a formatura, através da venda de produtos. [🔗 Repositório privado]
-- Acesso: <a href="https://lojinhadosformandos-fatecregistro.com">https://lojinhadosformandos-fatecregistro.com</a>
+Acesso: <a href="https://lojinhadosformandos-fatecregistro.com" target="_blank">https://lojinhadosformandos-fatecregistro.com</a>
 
 <br>
 
@@ -84,11 +84,11 @@ Bem-vindo ao salão de mapas! Aqui estão algumas campanhas épicas que já lanc
 
 Horas de estudo na Torre dos Magos me concederam certificações poderosas:
 
-<a href="https://www.credly.com/badges/495a3bc3-1bf1-4dd5-aa84-ac4c1c13259d/public_url">
+<a href="https://www.credly.com/badges/495a3bc3-1bf1-4dd5-aa84-ac4c1c13259d/public_url" target="_blank">
   <img align="center" alt="AWS Educator" height="120" width="120" src="https://images.credly.com/images/e7bf6727-22cf-45d6-ad9c-76ab57c3f11b/image.png">
 </a>
 
-<a href="https://www.credly.com/badges/fe588aeb-47e2-413a-85b9-65c2e95ecab8/public_url">
+<a href="https://www.credly.com/badges/fe588aeb-47e2-413a-85b9-65c2e95ecab8/public_url" target="_blank">
   <img align="center" alt="AWS Cloud Foundations" height="120" width="120" src="https://images.credly.com/size/340x340/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob">
 </a>
 
