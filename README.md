@@ -3,8 +3,8 @@
 #### **Deixe-me apresentar...** 🙇
 
 <ul style="list-style: none; padding: 0; margin: 0; line-height: 1.8;">
-  <li>👨‍🏫 Professor de Ensino Superior e Médio/Técnico no Centro Paula Souza (FATEC/ETEC)</li>
-  <li>🎨 UX Designer no CPS Carreiras (Centro Paula Souza)</li>
+  <li>👨‍🏫 Professor de Ensino Superior e Médio/Técnico no Centro Paula Souza (<a href="https://fatecregistro.cps.sp.gov.br" target="_blank">FATEC</a>/<a href="https://etecregistro.cps.sp.gov.br" target="_blank">ETEC)</a></li>
+  <li>🎨 UX Designer no <a href="https://carreiras.cps.sp.gov.br" target="_blank">CPS Carreiras</a> (Centro Paula Souza)</li>
   <li>🎓 Graduado em Análise e Desenvolvimento de Sistemas</li>
   <li>🌐 Especialista em Redes Estruturadas de Computadores</li>
   <li>📚 Especialização em Processos de Ensino e Aprendizagem</li>
