@@ -36,13 +36,13 @@
 Bem-vindo ao salão de mapas! Aqui estão algumas campanhas épicas que já lancei no GitHub:
 
 - 🛍️ **Lojinha dos Formandos - Fatec Registro** — Uma plataforma web desenvolvida para auxiliar os alunos formandos da FATEC Registro na arrecadação de fundos para a formatura, através da venda de produtos. [🔗 Repositório privado]
-<br/>
+
 Acesso: <a href="https://lojinhadosformandos-fatecregistro.com" target="_blank">https://lojinhadosformandos-fatecregistro.com</a>
 
 <br>
 
 - 💠 **Fatec Registro | Academies Hub** — Esse sistema foi desenvolvido para ser utilizado pelos docentes e alunos da FATEC Registro. O Fatec Registro Academies Hub permite o gerenciamento completo dos cursos oferecidos pelos parceiros Cisco, Huawei, Oracle, AWS, IBM e Nvidia em suas Academys, bem como o gerenciamento de inscrições para as plataformas.  [🔗 Repositório privado]
-<br/>
+
 Acesso: <a href="https://fatecregistroacademieshub.vercel.app" target="_blank">https://fatecregistroacademieshub.vercel.app</a>
 
 
