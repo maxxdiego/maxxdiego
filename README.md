@@ -31,8 +31,6 @@
 
 <br>
 
----
-
 ### 📜 Meu Mapa de Aventuras
 
 Bem-vindo ao salão de mapas! Aqui estão algumas campanhas épicas que já lancei no GitHub:
@@ -41,12 +39,7 @@ Bem-vindo ao salão de mapas! Aqui estão algumas campanhas épicas que já lanc
 
 <br>
 
-- 🤔 **Code Challenge** — Uma aplicação interativa de minha autoria, criada para testar conhecimentos em código-fonte de APIs, Sistemas Web entre outros, através de desafios práticos. [🔗 Acesse](https://github.com/maxxdiego/code-challenge)
-
-<br>
-
-- 🏰 **The Games API** — Uma campanha RESTful que ensina devs iniciantes a praticar programação com Node.js e Python Flask. <br>
-Node.js: [🔗 Acesse](https://github.com/maxxdiego/09_api_node_e_front_end) / Python - Flask: [🔗 Acesse](https://github.com/maxxdiego/18_api_flask_games)
+- 🛍️ **Lojinha dos Formandos - Fatec Registro** — Uma plataforma web desenvolvida para auxiliar os alunos formandos da FATEC Registro na arrecadação de fundos para a formatura, através da venda de produtos. [🔗 Repositório privado]
 
 <br>
 
@@ -56,53 +49,30 @@ Node.js: [🔗 Acesse](https://github.com/maxxdiego/09_api_node_e_front_end) / P
 
 <div align="left"> 
   <div style="display: inline_block"><br>
-
-  ### 🛡️ **Artefatos de Frontend**:  
-  <br />
-  <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" >
-  &nbsp;<img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" >
-  &nbsp;<img align="center" alt="JS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" >
-  &nbsp;<img align="center" alt="Typescript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" >
-  &nbsp;<img align="center" alt="React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" >
-  &nbsp;<img align="center" alt="VueJS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" >
-
-  <br /><br />
-  ### 🗡️ **Pergaminhos de Backend**:  
-  <br />
-  <img align="center" alt="NodeJs" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" >
-  &nbsp;<img align="center" alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" >
-  &nbsp;<img align="center" alt="Express" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" >
-  &nbsp;<img align="center" alt="Flask" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" >
-
-  <br /><br />
-  ### 🎨 **Feitiços de Ilusão (Design)**:  
-  <br />
-  <img align="center" alt="Tailwind" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" >
-  &nbsp;<img align="center" alt="Bootstrap" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" >
-  &nbsp;<img align="center" alt="Figma" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" >
-  &nbsp;<img align="center" alt="Gimp" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" >
-
-  <br /><br />
-  ### 📡 **Pergaminhos de Comunicação**:  
-  <br />
-  <img align="center" alt="Insomnia" height="50" width="50" src="https://raw.githubusercontent.com/Kong/insomnia-design-assets/5e6169ba40c2ee7b790f7fa5368f48f37f823460/export/Icon.svg">
-  &nbsp;<img align="center" alt="Postman" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" >    
-
-  <br /><br />
-  ### 🔐 **Chaves do Cofre (Bancos de Dados)**:  
-  <br />
-  <img align="center" alt="MongoDB" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" >
-  &nbsp;<img align="center" alt="MySQL" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" >
-  &nbsp;<img align="center" alt="SQLite" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" >
-
-  <br /><br />
-  ### ⚙️ **Ferramentas de Invocação**:  
-  <br />
-  <img align="center" alt="Docker" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" >
-  &nbsp;<img align="center" alt="Next" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" >
-  &nbsp;<img align="center" alt="Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" >
-  &nbsp;<img align="center" alt="Github" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" >
-
+  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" >
+  &nbsp;<img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" >
+  &nbsp;<img align="center" alt="JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" >
+  &nbsp;<img align="center" alt="Typescript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" >
+  &nbsp;<img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" >
+  &nbsp;<img align="center" alt="VueJS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" >
+  &nbsp;<img align="center" alt="NodeJs" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" >
+  &nbsp;<img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" >
+  &nbsp;<img align="center" alt="Express" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" >
+  &nbsp;<img align="center" alt="Flask" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" >
+  &nbsp;<img align="center" alt="Tailwind" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" >
+  &nbsp;<img align="center" alt="Bootstrap" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" >
+  &nbsp;<img align="center" alt="Figma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" >
+  &nbsp;<img align="center" alt="Gimp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" >
+  &nbsp;<img align="center" alt="Insomnia" height="40" width="40" src="https://raw.githubusercontent.com/Kong/insomnia-design-assets/5e6169ba40c2ee7b790f7fa5368f48f37f823460/export/Icon.svg">
+  &nbsp;<img align="center" alt="Postman" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" >    
+  &nbsp;<img align="center" alt="MongoDB" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" >
+  &nbsp;<img align="center" alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" >
+  &nbsp;<img align="center" alt="SQLite" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" >
+  &nbsp;<img align="center" alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" >
+  &nbsp;<img align="center" alt="Next" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" >
+  &nbsp;<img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" >
+  &nbsp;<img align="center" alt="Github" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" >
+  </div>
 </div>
 
 <br>
